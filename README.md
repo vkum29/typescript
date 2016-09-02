@@ -1,6 +1,6 @@
 # TypeScript hands-on
 
-Project to lEarn TypeScript
+Simple setup to do hands on TypeScript
 
 ## Install
 
