@@ -1,4 +1,4 @@
-# lEarn-typescript
+# TypeScript hands-on
 
 Project to lEarn TypeScript
 
