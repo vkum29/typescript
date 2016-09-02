@@ -1,0 +1,29 @@
+{
+  "name": "typescript-hands-on",
+  "version": "0.0.1",
+  "description": "Project to lEarn TypeScript",
+  "main": "/",
+  "scripts": {
+    "predev": "echo Typescript && tsc -v && echo is being used to compile your app",
+    "dev": "tsc -w",
+    "start": "tsc"
+  },
+  "author": "VJ",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkum29/typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "hands-on"
+  ],
+  "bugs": {
+    "url": "https://github.com/vkum29/typescript/issues"
+  },
+  "homepage": "https://github.com/vkum29/typescript#readme"
+}
